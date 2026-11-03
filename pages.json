@@ -1,0 +1,35 @@
+{
+	"pages": [
+		{
+			"path": "pages/login/login",
+			"style": {
+				"navigationStyle": "custom",
+				"navigationBarTitleText": "登录",
+				"backgroundColor": "#ffe5ee"
+			}
+		},
+		{
+			"path": "pages/register/register",
+			"style": {
+				"navigationStyle": "custom",
+				"navigationBarTitleText": "注册",
+				"backgroundColor": "#ffe5ee"
+			}
+		},
+		{
+			"path": "pages/chat/chat",
+			"style": {
+				"navigationStyle": "custom",
+				"navigationBarTitleText": "桃气聊",
+				"backgroundColor": "#fffaf7"
+			}
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "桃气聊",
+		"navigationBarBackgroundColor": "#fffaf7",
+		"backgroundColor": "#fffaf7"
+	},
+	"uniIdRouter": {}
+}
